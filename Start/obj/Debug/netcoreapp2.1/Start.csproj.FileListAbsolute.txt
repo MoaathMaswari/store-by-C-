@@ -1,0 +1,33 @@
+C:\Users\pc\Desktop\project\Start\bin\Debug\netcoreapp2.1\Start.deps.json
+C:\Users\pc\Desktop\project\Start\bin\Debug\netcoreapp2.1\Start.runtimeconfig.json
+C:\Users\pc\Desktop\project\Start\bin\Debug\netcoreapp2.1\Start.runtimeconfig.dev.json
+C:\Users\pc\Desktop\project\Start\bin\Debug\netcoreapp2.1\Start.dll
+C:\Users\pc\Desktop\project\Start\bin\Debug\netcoreapp2.1\Start.pdb
+C:\Users\pc\Desktop\project\Start\obj\Debug\netcoreapp2.1\Start.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\project\Start\obj\Debug\netcoreapp2.1\Start.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\project\Start\obj\Debug\netcoreapp2.1\Start.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\project\Start\obj\Debug\netcoreapp2.1\Start.AssemblyInfo.cs
+C:\Users\pc\Desktop\project\Start\obj\Debug\netcoreapp2.1\Start.dll
+C:\Users\pc\Desktop\project\Start\obj\Debug\netcoreapp2.1\Start.pdb
+C:\Users\pc\Desktop\sharpProject\Start\bin\Debug\netcoreapp2.1\Start.deps.json
+C:\Users\pc\Desktop\sharpProject\Start\bin\Debug\netcoreapp2.1\Start.runtimeconfig.json
+C:\Users\pc\Desktop\sharpProject\Start\bin\Debug\netcoreapp2.1\Start.runtimeconfig.dev.json
+C:\Users\pc\Desktop\sharpProject\Start\bin\Debug\netcoreapp2.1\Start.dll
+C:\Users\pc\Desktop\sharpProject\Start\bin\Debug\netcoreapp2.1\Start.pdb
+C:\Users\pc\Desktop\sharpProject\Start\obj\Debug\netcoreapp2.1\Start.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\sharpProject\Start\obj\Debug\netcoreapp2.1\Start.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\sharpProject\Start\obj\Debug\netcoreapp2.1\Start.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\sharpProject\Start\obj\Debug\netcoreapp2.1\Start.AssemblyInfo.cs
+C:\Users\pc\Desktop\sharpProject\Start\obj\Debug\netcoreapp2.1\Start.dll
+C:\Users\pc\Desktop\sharpProject\Start\obj\Debug\netcoreapp2.1\Start.pdb
+C:\Users\pc\Desktop\معاذ المسوري مشروع C#\Start\bin\Debug\netcoreapp2.1\Start.deps.json
+C:\Users\pc\Desktop\معاذ المسوري مشروع C#\Start\bin\Debug\netcoreapp2.1\Start.runtimeconfig.json
+C:\Users\pc\Desktop\معاذ المسوري مشروع C#\Start\bin\Debug\netcoreapp2.1\Start.runtimeconfig.dev.json
+C:\Users\pc\Desktop\معاذ المسوري مشروع C#\Start\bin\Debug\netcoreapp2.1\Start.dll
+C:\Users\pc\Desktop\معاذ المسوري مشروع C#\Start\bin\Debug\netcoreapp2.1\Start.pdb
+C:\Users\pc\Desktop\معاذ المسوري مشروع C#\Start\obj\Debug\netcoreapp2.1\Start.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\معاذ المسوري مشروع C#\Start\obj\Debug\netcoreapp2.1\Start.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\معاذ المسوري مشروع C#\Start\obj\Debug\netcoreapp2.1\Start.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\معاذ المسوري مشروع C#\Start\obj\Debug\netcoreapp2.1\Start.AssemblyInfo.cs
+C:\Users\pc\Desktop\معاذ المسوري مشروع C#\Start\obj\Debug\netcoreapp2.1\Start.dll
+C:\Users\pc\Desktop\معاذ المسوري مشروع C#\Start\obj\Debug\netcoreapp2.1\Start.pdb
